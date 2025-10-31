@@ -26,7 +26,7 @@ This repository contains the complete Excel dashboard file along with supportive
 
 ## **📐 Dashboard Preview**
 
-[Dashboard]((https://github.com/Suman-bot8927/Blinkit-Sales-Analysis-Dashboard/blob/main/Snapshot.png))
+[Dashboard](https://github.com/Suman-bot8927/Blinkit-Sales-Analysis-Dashboard/blob/main/Snapshot.png)
 
 ---
 
